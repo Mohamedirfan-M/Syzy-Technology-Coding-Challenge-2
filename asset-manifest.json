@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mohamedirfan-M/Syzy-Technology-Coding-Challenge-2/static/css/main.bbbc847a.css",
+    "main.js": "/Mohamedirfan-M/Syzy-Technology-Coding-Challenge-2/static/js/main.4cd6d9ca.js",
+    "static/js/563.0c182a06.chunk.js": "/Mohamedirfan-M/Syzy-Technology-Coding-Challenge-2/static/js/563.0c182a06.chunk.js",
+    "index.html": "/Mohamedirfan-M/Syzy-Technology-Coding-Challenge-2/index.html",
+    "main.bbbc847a.css.map": "/Mohamedirfan-M/Syzy-Technology-Coding-Challenge-2/static/css/main.bbbc847a.css.map",
+    "main.4cd6d9ca.js.map": "/Mohamedirfan-M/Syzy-Technology-Coding-Challenge-2/static/js/main.4cd6d9ca.js.map",
+    "563.0c182a06.chunk.js.map": "/Mohamedirfan-M/Syzy-Technology-Coding-Challenge-2/static/js/563.0c182a06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbbc847a.css",
+    "static/js/main.4cd6d9ca.js"
+  ]
+}
